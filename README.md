@@ -3,4 +3,4 @@
 > **1. CNN**
 > > **2. Decision Tree**'
 > > > **3. Genetic Algorithm**
-> > > > **4. Differential evolution **
+> > > > **4. Differential evolution**
